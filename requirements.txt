@@ -1,0 +1,16 @@
+# Install torch separately with the CUDA build matching your driver, see README.
+transformers>=4.44
+accelerate>=0.34
+sentencepiece
+pose-format
+numpy
+pandas
+tqdm
+sacrebleu
+rouge==1.0.1
+nltk
+# optional, only for video feature extraction
+av
+opencv-python-headless
+pillow
+torchvision

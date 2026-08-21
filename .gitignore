@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+env/
+*.pt
+*.f16
+*.jsonl
+*.zip
+*.csv
+*.log
+.DS_Store
