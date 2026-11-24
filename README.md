@@ -5,8 +5,6 @@ Translation). The system maps Indian Sign Language pose keypoint sequences to
 English sentences using a T5 encoder decoder with an auxiliary contrastive
 objective and ensemble decoding.
 
-Reported test set scores: chrF 0.16, ROUGE 0.08, BLEU 0.00.
-
 ## 1. Requirements
 
 A machine with one NVIDIA GPU. Training one model takes about one hour on an
